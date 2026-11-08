@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+    printf("Subject:\tPhysical Computing 1-2569\tSection:\t1\nID:\t68070072\tName:\tMr. Theerawat Russamevikai");
+    return 0;
+}
